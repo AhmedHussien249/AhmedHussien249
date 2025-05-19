@@ -61,6 +61,11 @@
      <a href="https://t.me/AhmedHussien249">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  </a>
+     </a>
+     <a href="https://wa.me/201003540025">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </
 </div>
 
 <br>
