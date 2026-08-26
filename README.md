@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmed+Hussien;Junior+Flutter+Developer+%F0%9F%93%B1" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmed+Hussien;Junior+Flutter+Developer+%F0%9F%93%B1" />
 </div>
 
 <p align="center">
@@ -86,13 +86,13 @@ Three production-level apps built during my time at Elevate Tech, spanning AI in
 <br>
 <div align="center">
   <a href="https://github.com/AhmedHussien249/github-readme-streak-stats">
-    <img title="🔥 Streak stats" alt="AhmedHussien249's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHussien249&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
+    <img title="🔥 Streak stats" alt="AhmedHussien249's streak" src="https://streak-stats.demolab.com/?user=AhmedHussien249&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8"/>
   </a>
 </div>
 
 <br>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Always+learning,+always+coding+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Always+learning,+always+coding+%F0%9F%9A%80" />
 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedHussien249&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile Views">
