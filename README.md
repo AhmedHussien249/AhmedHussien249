@@ -77,10 +77,10 @@ Three production-level apps built during my time at Elevate Tech, spanning AI in
 
 <div align="center">
   <a href="https://github.com/AhmedHussien249">
-    <img alt="AhmedHussien249's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedHussien249&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=a8b2d1" height="192px"/>
+    <img alt="AhmedHussien249's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedHussien249&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=a8b2d1" height="192px"/>
   </a>
   <a href="https://github.com/AhmedHussien249">
-    <img alt="AhmedHussien249's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHussien249&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=a8b2d1" height="192px"/>
+    <img alt="AhmedHussien249's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHussien249&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=a8b2d1" height="192px"/>
   </a>
 </div>
 <br>
